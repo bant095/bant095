@@ -8,7 +8,7 @@ I am Abolaji Alfred, a **Frontend Engineer** based in Nigeria. To see my profile
 - 🌱 I’m currently learning ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-- 💬 Ask me about Anything Frontend Development
+- 💬 Ask me about Anything in Frontend Development
 - 📫 How to reach me: +2348104244450
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Soccer / Fooball
