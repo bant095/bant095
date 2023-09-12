@@ -4,16 +4,6 @@ I am Abolaji Alfred, a **Frontend Engineer** based in Nigeria. To see my profile
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abolaji-alfred-ayodeji/)
 
-- 🔭 I’m currently working on Ardilla Finance Project
-- 🌱 I’m currently learning ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-- 👯 I’m looking to collaborate on Frontend Projects
-- 🤔 I’m looking for help with ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-- 💬 Ask me Anything about Frontend Development
-- 📫 How to reach me: +2348104244450
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Soccer / Fooball
--->
-
 ## Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -29,6 +19,16 @@ I am Abolaji Alfred, a **Frontend Engineer** based in Nigeria. To see my profile
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bant095&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bant095&hide=TeX&layout=compact&theme=prussian)
+
+- 🔭 I’m currently working on Ardilla Finance Project
+- 🌱 I’m currently learning ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+- 👯 I’m looking to collaborate on Frontend Projects
+- 🤔 I’m looking for help with ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+- 💬 Ask me Anything about Frontend Development
+- 📫 How to reach me: +2348104244450
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Soccer / Fooball
+-->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bant095.bant095)
 
