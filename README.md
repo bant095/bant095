@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Abolaji Alfred, a **Frontend Software Engineer**.
+I am Abolaji Alfred, a **Frontend Engineer**.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abolaji-alfred-ayodeji/)
 
